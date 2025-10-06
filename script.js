@@ -12,7 +12,7 @@ const scrollProgress = document.getElementById("scroll-progress")
 // Gallery data with enhanced animations
 const galleryItems = [
   {
-    src: "asset/osismpk.png",
+    src: "asset/osismpk.PNG",
     alt: "Logo Resmi OSIS & MPK",
     caption: "Logo Resmi OSIS & MPK",
     category: "logo",
